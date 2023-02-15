@@ -98,3 +98,19 @@ trial_array = (np.arange(24)).reshape((2, 3, 4))
 trial_array2 = np.append(trial_array, [5, 6, 7, 8])
 print(trial_array)
 print(trial_array2)
+
+print('---------------')
+
+ave = np.array(np.arange(24))
+ave2 = ave.reshape((3, 8))
+ave3 = ave2.reshape((2, 3, 4))
+print(ave2)
+print(ave3)
+print(np.fliplr(ave2)) # элементы всех строк перевернуть в обратном порядке
+print(np.flipud(ave2)) # элементы всех столбцов перевернуть в обратном порядке
+print(np.roll(ave, 5)) # 5 элементов с конца добавятся в начало массива
+
+print('---------------')
+
+array = np.array(np.arange(10))
+print(np.tile(array, 5)) # tile повторяет элементы из массива указанное количество раз
