@@ -24,6 +24,10 @@ Canvas – подложки для рисования на холсте (рис�
 
 ## lesson 2
 
+Типы маркеров:
+
+![10](https://sun9-north.userapi.com/sun9-79/s/v1/ig2/_I78jgQ3kS5uW-z-4eGkda4EfviduwtmPK5aEQe6NZWfKJKzcqYTNYfb9C6tAKYj-zCyJVD9dqtHB3HujW9qYwRF.jpg?size=666x586&quality=96&type=album)
+
 1 и 2:
 
 ![3](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/O8unlifzbfxVokWiOOh9ydlL4Y6xBQ5lTO5VsNRaKP0adZkAcXmVjl_79Qeiv_ShOtXKJIHkYw6HAJOxxsZoM4lR.jpg?size=639x552&quality=96&type=album)
