@@ -59,3 +59,9 @@ Canvas – подложки для рисования на холсте (рис�
 18
 
 ![9](https://sun9-west.userapi.com/sun9-64/s/v1/ig2/WNWr5AO-pWhlQi2k75AOmzDDmU6mT_l0AjzaEJrnw5g-Hnr3JKLVb7ngNNyuCVvhU69K_yvPeUZR27R5gSOU2AKm.jpg?size=555x409&quality=96&type=album)
+
+## lesson 3
+
+matplotlib3.1
+
+![11](https://sun9-west.userapi.com/sun9-72/s/v1/ig2/ziJCVKn_AxSp2AgnenlGnfWv_jH4o-XULpKHvVm4R8BO9g2TvRAivZhIPB4oClbR0B_sWdcmD9GzIfNezH_rmFyD.jpg?size=596x344&quality=96&type=album)
