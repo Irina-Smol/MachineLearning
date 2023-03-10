@@ -6,3 +6,5 @@
 
 ![1](https://i.vas3k.blog/7r9.jpg)
 
+![2](https://s0.rbk.ru/v6_top_pics/media/img/0/69/756237500508690.jpeg)
+
