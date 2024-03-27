@@ -21,4 +21,5 @@ wxAgg - Рендеринг графики в wxWidgets (требуется wxPyt
 '''
 
 plt.plot([1, 2, -6, 0, 4]) # отображениe простейшей кривой
+plt.grid()
 plt.show()
